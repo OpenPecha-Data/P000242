@@ -1,0 +1,41 @@
+ebook_metadata:
+  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  authors:
+  - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  sku: RDI-SS-10
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Commentary on Lamrim Yeshe Nyingpo, Gradual Path of the Wisdom Essence
+    bo: ལམ་རིམ་ཡེ་ཤེས་སྙིང་པོའི་འགྲེལ་བ།
+  collection:
+    en: RDI Study Series–  Book 10
+    bo: ཐོས་བསམ་འཆད་ཉན་གྱི་རིམ་པ།–  དེབ། ༡༠
+  author:
+    en: Jamgon Kongtrul Lodro Thaye
+    bo: འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  pusblisher:
+    en: Rigpe Dorje Institute
+    bo: རིག་པའི་རྡོ་རྗེ་གཙུག་ལག་སློབ་ཉེར་ཁང་།
+  sku: RDI-SS-10
+  category:
+    en: Stages of the Path
+    bo: ལམ་རིམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: RDI-SS-10.epub
+  description:
+    en: ༄༅། །དུས་གསུམ་ཀུན་མཁྱེན་པདྨ་སཾ་བྷ་བའི་སྙིང་ཏིག བླ་སྒྲུབ་ཟབ་མོ་སྐོར་བཞིའི་རྒྱབ་ཆོས།
+      ཡོ་ག་རྣམ་པ་གསུམ་གྱི་ལྟ་སྒོམ་སྤྱོད་པའི་རིམ་པ་ཡོངས་སུ་རྫོགས་པ་གསལ་བར་སྟོན་པ་སངས་རྒྱས་གཉིས་པ་ཨོ་རྒྱན་གྱི་སློབ་དཔོན་ཆེན་པོ་ཞལ་དངོས་སུ་བསྙེན་པ་དང་མཚུངས་པའི་ཞལ་གདམས་ལམ་གྱི་རིམ་པ་འདི་ཉིད་ཡིན་ནོ།
+      །
+    bo: ༄༅། །དུས་གསུམ་ཀུན་མཁྱེན་པདྨ་སཾ་བྷ་བའི་སྙིང་ཏིག བླ་སྒྲུབ་ཟབ་མོ་སྐོར་བཞིའི་རྒྱབ་ཆོས།
+      ཡོ་ག་རྣམ་པ་གསུམ་གྱི་ལྟ་སྒོམ་སྤྱོད་པའི་རིམ་པ་ཡོངས་སུ་རྫོགས་པ་གསལ་བར་སྟོན་པ་སངས་རྒྱས་གཉིས་པ་ཨོ་རྒྱན་གྱི་སློབ་དཔོན་ཆེན་པོ་ཞལ་དངོས་སུ་བསྙེན་པ་དང་མཚུངས་པའི་ཞལ་གདམས་ལམ་གྱི་རིམ་པ་འདི་ཉིད་ཡིན་ནོ།
+      །
